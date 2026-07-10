@@ -1,0 +1,22 @@
+module.exports = [
+  { id: 1, name: 'Wireless Bluetooth Earbuds', category: 'Electronics', price: 1499, rating: 4.3 },
+  { id: 2, name: '4K Smart LED TV 43"', category: 'Electronics', price: 24999, rating: 4.5 },
+  { id: 3, name: 'Mechanical Gaming Keyboard', category: 'Electronics', price: 3299, rating: 4.1 },
+  { id: 4, name: 'Portable Power Bank 20000mAh', category: 'Electronics', price: 1299, rating: 3.9 },
+  { id: 5, name: 'Noise Cancelling Headphones', category: 'Electronics', price: 5999, rating: 4.7 },
+  { id: 6, name: 'Smart Fitness Watch', category: 'Electronics', price: 2799, rating: 4.0 },
+  { id: 7, name: "Men's Cotton Casual Shirt", category: 'Apparel', price: 799, rating: 4.0 },
+  { id: 8, name: "Women's Denim Jacket", category: 'Apparel', price: 1899, rating: 4.4 },
+  { id: 9, name: 'Unisex Hooded Sweatshirt', category: 'Apparel', price: 1299, rating: 3.8 },
+  { id: 10, name: "Women's Floral Summer Dress", category: 'Apparel', price: 1599, rating: 4.2 },
+  { id: 11, name: "Men's Slim Fit Chinos", category: 'Apparel', price: 999, rating: 3.6 },
+  { id: 12, name: 'Running Sneakers', category: 'Footwear', price: 2499, rating: 4.6 },
+  { id: 13, name: 'Leather Formal Shoes', category: 'Footwear', price: 3499, rating: 4.3 },
+  { id: 14, name: 'Casual Canvas Shoes', category: 'Footwear', price: 999, rating: 3.7 },
+  { id: 15, name: 'Sports Sandals', category: 'Footwear', price: 699, rating: 3.5 },
+  { id: 16, name: 'High-Top Sneakers', category: 'Footwear', price: 2899, rating: 4.5 },
+  { id: 17, name: 'Leather Wallet', category: 'Accessories', price: 599, rating: 4.1 },
+  { id: 18, name: 'Aviator Sunglasses', category: 'Accessories', price: 899, rating: 4.0 },
+  { id: 19, name: 'Canvas Backpack', category: 'Accessories', price: 1499, rating: 4.4 },
+  { id: 20, name: 'Analog Wrist Watch', category: 'Accessories', price: 2199, rating: 4.2 }
+];

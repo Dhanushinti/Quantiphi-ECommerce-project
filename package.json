@@ -1,0 +1,24 @@
+{
+  "name": "ecommerce-multi-filter-sidebar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanushinti/Quantiphi-ECommerce-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dhanushinti/Quantiphi-ECommerce-project/issues"
+  },
+  "homepage": "https://github.com/Dhanushinti/Quantiphi-ECommerce-project#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
